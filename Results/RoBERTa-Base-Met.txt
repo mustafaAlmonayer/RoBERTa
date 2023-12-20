@@ -1,0 +1,5 @@
+True Positive = 804
+False Positive = 222
+True negative = 778
+False negative = 196
+Total = 2000

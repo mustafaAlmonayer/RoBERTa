@@ -1,0 +1,7 @@
+Accuracy = 0.72
+Precision = 0.8536977491961415
+Recall = 0.531
+F1 Score = 0.6547472256473489
+Specificity = 0.909
+Sensitivity = 0.531
+False Positive Rate = 0.091
